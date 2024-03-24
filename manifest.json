@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Save Snippet",
+  "description": "Store snippet of code with description for later use",
+  "version": "1.0",
+  "action":{
+    "default_popup": "index.html",
+    "default_icon": "./snippet_image.png"
+  }
+}
